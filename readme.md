@@ -1,5 +1,4 @@
 <p align="center">
-  <b>Minerger Launcher</b><br>
-    <br><br>
+  <title>Et voici le titre de ma page !</title>
   </p>
 
