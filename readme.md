@@ -1,4 +1,4 @@
 <p align="center">
-  <title>Et voici le titre de ma page !</title>
+  <b>Et voici le titre de ma page !</b>
   </p>
 
